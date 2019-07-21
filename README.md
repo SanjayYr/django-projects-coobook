@@ -1,1 +1,1 @@
-# django-projects-coobook
+# django-projects-cookbook
