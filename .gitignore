@@ -1,0 +1,3 @@
+*.pyc
+djen_project/djen_project/settings.py
+venv/**
